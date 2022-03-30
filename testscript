@@ -1,0 +1,5 @@
+newimg 536870912
+format
+mkdir /sys
+mkdir /sys/lib
+infile -d /sys/lib disk/sys/lib
